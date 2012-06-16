@@ -2,24 +2,6 @@
 <title>Riaan Hanekom's Git Achievements</title>
 <description></description>
 <link></link>
-<item><title>Socialite (Level 6)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Let there be light</title><description>Commit without a parent.</description></item>
-<item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Author (Level 6)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Historian (Level 4)</title><description>Investigate the commit log using git log.</description></item>
-<item><title>Socialite (Level 5)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Stone Mason (Level 6)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Socialite (Level 4)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Author (Level 5)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Socialite (Level 3)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Stone Mason (Level 5)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Socialite (Level 2)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Author (Level 4)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Stone Mason (Level 4)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Traveler (Level 2)</title><description>Streamed changes between another rcs with git svn or git p4.</description></item>
-<item><title>Apprentice Seamstress (Level 1)</title><description>amended a commit with git commit --amend.</description></item>
-<item><title>Apprentice Author (Level 3)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Stone Mason (Level 3)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
-<item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Presenter (Level 1)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
+<item><title>Baptised</title><description>Set global user name using git config.</description></item>
+<item><title>Homeowner</title><description>Set global email address using git config.</description></item>
 </channel></rss>
